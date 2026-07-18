@@ -6,11 +6,11 @@ A modern, responsive personal portfolio website built using **HTML5, CSS3, and J
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://nandz004.vercel.app
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-username/your-repository-name
+🔗 https://github.com/Nandz004/portfolio website 
 
 ---
 
@@ -71,7 +71,7 @@ portfolio-website/
 
 **Nandana J**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Nandz004
 
 
 ⭐ If you like this project, consider giving it a star on GitHub!
