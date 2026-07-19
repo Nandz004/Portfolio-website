@@ -10,7 +10,7 @@ A modern, responsive personal portfolio website built using **HTML5, CSS3, and J
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/https://github.com/Nandz004/Portfolio-website/blob/main/README.md/portfolio website 
+🔗 https://github.com/Nandz004/Portfolio-website/blob/main/README.md/portfolio website 
 
 ---
 
