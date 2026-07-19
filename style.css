@@ -516,6 +516,9 @@ height:300px;
     margin-top:10px;
         text-align: center;
 }
+#about h2 {
+  text-align: center;
+}
 
 /*========================
         ABOUT
