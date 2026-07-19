@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built using **HTML5, CSS3, and J
 
 ## 🚀 Live Demo
 
-🔗 https://https://https://portfolio-website-orcin-theta-18.vercel.app/.vercel.app
+🔗 https://portfolio-website-orcin-theta-18.vercel.app/.vercel.app
 
 ## 📂 GitHub Repository
 
