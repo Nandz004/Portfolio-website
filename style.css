@@ -186,6 +186,32 @@ transition:.3s;
 color:#60a5fa;
 
 }
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    background: #0f172a; /* match your dark navbar */
+    display: none;
+    text-align: center;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links li {
+    padding: 1rem 0;
+  }
+}
 
 .menu-btn{
 
