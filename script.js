@@ -203,3 +203,18 @@ window.addEventListener("scroll",()=>{
 // highlight current section
 
 });
+// Fade in the about image when it enters the viewport
+const aboutImg = document.querySelector('.about-img');
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target); // animate only once
+    }
+  });
+}, { threshold: 0.2 });
+
+if (aboutImg) {
+  observer.observe(aboutImg);
+                       }
