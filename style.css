@@ -564,7 +564,7 @@ height:300px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-    max-width: 600px;      /* NEW: caps the grid's width */
+    max-width: 400px;      /* NEW: caps the grid's width */
     margin: 0 auto;        /* NEW: centers the grid itself on the page */
     justify-items: center; /* NEW: centers each card within its grid cell */
     text-align: center;    /* NEW: centers the text inside each card */
